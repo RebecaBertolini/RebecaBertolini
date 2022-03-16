@@ -1,16 +1,23 @@
-### Hi there 👋
+### Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**RebecaBertolini/RebecaBertolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
 
-Here are some ideas to get you started:
+Meu nome é Rebeca, tenho 24 anos, sou uma estudante assídua de programação e busco minha tão sonhada primeira oportunidade da área, com foco em Front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span><img width = "60" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif"></span>
+
+## Tecnologias:
+
+<img  width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+## Estudando:
+
+<img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+## Sobre meu GitHub:
+
+<div>
+<a href="https://github.com/RebecaBertolini">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBertolini&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaBertolini&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
