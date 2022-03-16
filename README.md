@@ -21,3 +21,10 @@ Meu nome é Rebeca, tenho 24 anos, sou uma estudante assídua de programação e
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBertolini&layout=compact&langs_count=7&theme=cobalt"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebecaBertolini&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
+
+## Onde mais me encontrar:
+  
+<div> 
+<a href = "mailto:rebeca.bertolinii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rebeca-bertolini-spósito-544048200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
