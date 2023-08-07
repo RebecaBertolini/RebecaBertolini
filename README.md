@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-Meu nome é Rebeca, tenho 24 anos, sou uma estudante assídua de programação e busco minha tão sonhada primeira oportunidade da área com foco inicial em Front-end.
+Meu nome é Rebeca, tenho 26 anos, sou uma estudante assídua de programação e busco minha tão sonhada primeira oportunidade da área com foco inicial em Front-end.
 
 <span><img width = "60" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif"></span>
 
